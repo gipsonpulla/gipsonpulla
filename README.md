@@ -20,4 +20,4 @@
 - Production reliability & performance
 
 ## 📫 Contact
-https://www.linkedin.com/in/gipson-pulla | gipsonpulla@gmail.com
+https://www.linkedin.com/in/gipson-pulla
