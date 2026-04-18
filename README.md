@@ -1,6 +1,6 @@
 # Hi, I'm Gipson 👋
 
-🚀 Lead DevOps Engineer with 13+ years in Release Engineering & Cloud Infrastructure
+🚀 Lead DevOps Engineer with 13+ years in cloud test engineering, release automation, and database platforms, including leading MySQL release engineering at Oracle. Skilled in Docker, Kubernetes, Terraform, Python, and cloud-native CI/CD. Proven in building scalable automated test pipelines and improving release quality, speed, and reliability.
 
 ## 🔧 Expertise
 - Kubernetes, Docker, ArgoCD (GitOps)
