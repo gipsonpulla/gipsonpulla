@@ -2,11 +2,12 @@
 
 🚀 Lead DevOps Engineer with 13+ years of experience designing scalable CI/CD pipelines, cloud infrastructure, and release automation. Currently leading MySQL Release Engineering at Oracle, driving large-scale build systems, improving deployment efficiency, and enabling high-availability database platforms. Expert in Kubernetes, Docker, Terraform, and cloud-native DevOps practices.
 
-## 🔧 Expertise
-- Kubernetes, Docker, ArgoCD (GitOps)
-- Terraform (Infrastructure as Code)
-- CI/CD (Jenkins, GitHub Actions)
-- AWS Cloud
+---
+
+## ⚡ Tech Stack
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,gitlab,jenkins,githubactions,python,prometheus,grafana" />
+
+---
 
 ## 🔥 Featured Work
 - Production-style Terraform infrastructure
