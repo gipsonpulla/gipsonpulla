@@ -1,4 +1,4 @@
-# Hi, I'm Gipson 👋
+# Hi, I'm Gipson Pulla 👋
 
 🚀 Lead DevOps Engineer with 13+ years of experience designing scalable CI/CD pipelines, cloud infrastructure, and release automation. Currently leading MySQL Release Engineering at Oracle, driving large-scale build systems, improving deployment efficiency, and enabling high-availability database platforms. Expert in Kubernetes, Docker, Terraform, and cloud-native DevOps practices.
 
